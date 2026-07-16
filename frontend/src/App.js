@@ -69,7 +69,7 @@ function App() {
         <div className="brand">
           <div className="brand-symbol" aria-hidden="true" />
           <div>
-            <h1>mahesh</h1>
+            <h1>biren</h1>
             <p>A calm login experience</p>
           </div>
         </div>
